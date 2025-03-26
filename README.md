@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚀 Rajesh's GitHub Profile  
+👋 Hi, I'm **Rajesh**, a passionate software developer skilled in **Python, Java, SQL, and DSA**.  
+💻 I love solving coding challenges & building real-world projects!  
 
-<!--
-**Rajesh111-coder/Rajesh111-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack  
+- **Languages:** Python, Java, SQL  
+- **Tools:** Git, GitHub, VS Code  
+- **Currently Learning:** Full Stack Development, System Design  
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects  
+- 🔑 [Password Generator](https://github.com/Rajesh111-coder/YourProjectLink)  
+- 🎓 [Final Year Project](https://github.com/Rajesh111-coder/YourProjectLink)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect!**  
+- LinkedIn: [https://www.linkedin.com/in/rajesh-kumar-a24812259/]  
+- Email: [goddurajeshkumar143@gmail.com]  
