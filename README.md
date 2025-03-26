@@ -8,8 +8,8 @@
 - **Currently Learning:** Full Stack Development, System Design  
 
 ## 🔥 Featured Projects  
-- 🔑 [Password Generator](https://github.com/Rajesh111-coder/YourProjectLink)  
-- 🎓 [Final Year Project](https://github.com/Rajesh111-coder/YourProjectLink)  
+- 🔑 [Password Generator](https://github.com/Rajesh111-coder/Password-Generator)  
+- 🎓 [Final Year Project](https://github.com/Rajesh111-coder/CNN-Weed-Detector)  
 
 📫 **Let's Connect!**  
 - LinkedIn: [https://www.linkedin.com/in/rajesh-kumar-a24812259/]  
