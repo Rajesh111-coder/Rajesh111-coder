@@ -1,4 +1,4 @@
-# 🚀 Rajesh's GitHub Profile  
+#  Rajesh's GitHub Profile  
 👋 Hi, I'm **Rajesh**, a passionate software developer skilled in ** C, CPP ,LINUX OS, ARM7 EMBEDDED C ,Python, Java, SQL, and DSA**.  
 💻 I love solving coding challenges & building real-world projects!  
 
